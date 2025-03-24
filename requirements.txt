@@ -1,0 +1,7 @@
+numpy
+opencv-python-headless
+tensorflow
+gradio
+matplotlib
+seaborn
+pandas
