@@ -2,9 +2,10 @@
 
 Welcome to the Brain Tumor Detection project! This project leverages advanced deep learning techniques to accurately detect and classify brain tumors from MRI scans.
 
-## 🖼️ MODEL ACCURACY & EVALUATION METRICES 
+## 🖼️ MODEL ACCURACY & EVALUATION METRICS 
 
-![Sample ACCURACY](path/to/sample_mri_scan.png)
+![Sample ACCURACY](MODEL_ACCURACY.png)
+
 
 ## 🖼️ USER INTERFACE
 ![User USER INTERFACE](path/to/ui_screenshot.png)
