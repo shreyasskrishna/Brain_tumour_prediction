@@ -4,11 +4,11 @@ Welcome to the Brain Tumor Detection project! This project leverages advanced de
 
 ## 🖼️ MODEL ACCURACY & EVALUATION METRICS 
 
-![Sample ACCURACY](MODEL_ACCURACY.png)
+<img src="MODEL_ACCURACY.png" width="900">
 
 
 ## 🖼️ USER INTERFACE
-![User USER INTERFACE](path/to/ui_screenshot.png)
+<img src="images/WhatsApp Image 2025-02-19 at 10.01.49 AM.jpeg" width="900">
 
 
 
