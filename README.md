@@ -2,9 +2,6 @@
 
 Welcome to the Brain Tumor Detection project! This project leverages advanced deep learning techniques to accurately detect and classify brain tumors from MRI scans.
 
-**📆 VIII SEM PROJECT [6 MONTHS]**   
-[![Architecture diagram of shreyasskrishna/brain_tumour_prediction](https://gitdiagram.com/shreyasskrishna/brain_tumour_prediction/diagram.png)](https://gitdiagram.com/shreyasskrishna/brain_tumour_prediction?utm_source=readme&utm_medium=picture)
-
 ## 🖼️ MODEL ACCURACY & EVALUATION METRICS 
 
 <img src="images/MODEL_ACCURACY.png" width="900">
@@ -12,6 +9,12 @@ Welcome to the Brain Tumor Detection project! This project leverages advanced de
 
 ## 🖼️ USER INTERFACE
 <img src="images/Screenshot 2025-03-26 163823.png" width="900">
+
+
+**📆 VIII SEM PROJECT [6 MONTHS]**   
+[![Architecture diagram of shreyasskrishna/brain_tumour_prediction](https://gitdiagram.com/shreyasskrishna/brain_tumour_prediction/diagram.png)](https://gitdiagram.com/shreyasskrishna/brain_tumour_prediction?utm_source=readme&utm_medium=picture)
+
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/shreyasskrishna/brain_tumour_prediction?utm_source=readme&utm_medium=badge)
 
 
 
